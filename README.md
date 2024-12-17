@@ -21,17 +21,17 @@ Welcome to **BeyloooVerse**— a curated universe where you'll find a collection
 Welcome to the heart of **BeyloooVerse**, where I bring ideas to life through coding, geospatial analysis, and innovative problem-solving. 
 Below are some of the projects that define my journey:
 
-### 🌟 **Project 1: [Project Title]**  
-- **🔍 Overview:** A brief description of the project, its goals, and the impact it aims to create.  
-- **🛠️ Tech Stack:** [Tools used, e.g., Python, QGIS, osmnx]  
-- **🌐 Link:** [Live Demo or Repository](#)  
+### 🌟 **Project 1: Spatial Analysis with Python using Google Colab**  
+- **🔍 Overview:** This focuses on extracting and analyzing OpenStreetMap data for a Philippine city/municipality using **osmnx** and **geopandas** to calculate and visualize building density. 
+- **🛠️ Tech Stack:** Tools used are Osmnx, Geopandas, Matplot, Pyrosm.
+- **🌐 Link:** [https://colab.research.google.com/drive/1bLi1FXGekHbo7v5AA7Q6fSLMRPAoR2LK?usp=sharing](https://colab.research.google.com/drive/1thpNW6cUV3xGFzScuAxoMmkbVVz4Db6C?usp=sharing)
 
-### 🌙 **Project 2: [Project Title]**  
-- **🔍 Overview:** An overview of the project, what it addresses, and its relevance.  
-- **🛠️ Tech Stack:** [Tools used, e.g., Pandas, React, PostGIS]  
-- **🌐 Link:** [Live Demo or Repository](#)  
+### 🌙 **Project 2: Spatial Regression in Python using Google Colab**  
+- **🔍 Overview:** This exercise focuses on spatial regression analysis of vacation rental prices in Metro Manila, utilizing TripAdvisor data, OpenStreetMap, and spatial econometrics to understand the factors influencing rental prices, including amenities, proximity to restaurants, and roads. 
+- **🛠️ Tech Stack:** Tools used are Pysal, Libpysal, Scipy, Numpy, Pandas, Geopandas, Seaborn, Osmnx, Matplotlib
+- **🌐 Link:** https://colab.research.google.com/drive/1bLi1FXGekHbo7v5AA7Q6fSLMRPAoR2LK?usp=sharing
 
-### 🌠 **Project 3: [Project Title]**  
-- **🔍 Overview:** Short description highlighting the main focus of the project and what makes it unique.  
-- **🛠️ Tech Stack:** [Tools used, e.g., Flask, JavaScript, GitHub Actions]  
-- **🌐 Link:** [Live Demo or Repository](#)  
+### 🌠 **Project 3: Mapping Urban Cooling Relief Accessibility of Selected Parks in Quezon City**  
+- **🔍 Overview:** This focuses on generating a Land Surface Temperature (LST) map of Quezon City using satellite data from Landsat's Band 10. It calculates LST in Celsius, crops the map to Quezon City's boundaries, and visualizes thermal hotspots. Additionally, it integrates isochrone maps to show walkability to urban green spaces for assessing accessibility and urban heat relief.  
+- **🛠️ Tech Stack:** Tools used are Numpy, Rasterio, Geopandas, Matplotlib, Osmnx, Affine.
+- **🌐 Link:** https://colab.research.google.com/drive/1y0dn8DwNyWk8JXGysx0_Tu-wV_WfMnYP?usp=sharing 
