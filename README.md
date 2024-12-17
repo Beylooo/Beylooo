@@ -13,7 +13,7 @@ Welcome to **BeyloooVerse**— a curated universe where you'll find a collection
 
 👋 Hi, I'm **Beylooo**, a geodetic engineering student, passionate about solving real-world through geospatial analysis and coding. 🖥️🌏
 
-    -🎓 Currently a 4th year BS Geodetic Engineering at University of the Philippines.
+    -🎓 Currently a 4th year BS in Geodetic Engineering at the University of the Philippines.
     - 🌱 Continuously learning coding, more specifically Python.
 
 ---
