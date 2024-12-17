@@ -35,3 +35,15 @@ Below are some of the projects that define my journey:
 - **🔍 Overview:** This focuses on generating a Land Surface Temperature (LST) map of Quezon City using satellite data from Landsat's Band 10. It calculates LST in Celsius, crops the map to Quezon City's boundaries, and visualizes thermal hotspots. Additionally, it integrates isochrone maps to show walkability to urban green spaces for assessing accessibility and urban heat relief.  
 - **🛠️ Tech Stack:** Tools used are Numpy, Rasterio, Geopandas, Matplotlib, Osmnx, Affine.
 - **🌐 Link:** https://colab.research.google.com/drive/1y0dn8DwNyWk8JXGysx0_Tu-wV_WfMnYP?usp=sharing 
+
+---
+
+## 🌌 **Connect with Me**  
+- 📧 **Email:** jcbaillo@up.edu.ph  
+- 🌐 **Facebook:** https://www.facebook.com/johnryll.baillo  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/john-ryll-789139243/ 
+- 🐦 **Instagram:** [[Your Twitter Handle](#) ](https://www.instagram.com/john.ryll/)
+  
+---
+
+🌟 **Every project is a new adventure in the BeyloooVerse—where creativity meets technology.** 🌟
