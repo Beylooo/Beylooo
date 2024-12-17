@@ -1,11 +1,11 @@
-## Baillo's Portfolio 
+***BEYLOVerse ***
 
 Welcome to my portfolio repository! 🚀 Here, you'll find a collection of projects that showcase my skills, experience, and passion for GE 197.
 
 ---
 ## About Me 😊😊
 
-👋 Hi, I'm **John Ryll**, a 4th year BS Geodetic Engineering student in University of the Philippines Diliman, willing to learn about solving real-world through geospatial analysis and coding. 🖥️🌏
+👋 Hi, I'm **John Ryll**, a 4th year BS Geodetic Engineering student at the University of the Philippines Diliman, willing to learn about solving real-world through geospatial analysis and coding. 🖥️🌏
 
 
 
