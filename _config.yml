@@ -1,0 +1,14 @@
+title: My Personal Webpage
+description: >- Welcome to my personal webpage! Here, you can learn more about my projects, skills, and interests.
+  I am passionate about solving real-world problems using geospatial analysis and coding.
+
+author: John Ryll C. Baillo
+github_username: Beylooo
+
+theme: jekyll-theme-cayman
+
+social_links:
+  linkedin: https://www.linkedin.com/in/your-linkedin-profile/
+  facebook: https://www.facebook.com/johnryll.baillo
+  instagram: https://www.instagram.com/john.ryll/
+  email: jcbaillo@up.edu.ph
